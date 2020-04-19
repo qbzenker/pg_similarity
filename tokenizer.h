@@ -13,7 +13,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define	PGS_MAX_TOKEN_LEN	1024
+#define	PGS_MAX_TOKEN_LEN	65535
 
 #define	PGS_GRAM_LEN		3
 #define	PGS_BLANK_CHAR		' '

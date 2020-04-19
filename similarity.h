@@ -12,7 +12,7 @@
 #define		PGS_IGNORE_CASE			1
 
 /* maximum string length */
-#define		PGS_MAX_STR_LEN			1024
+#define		PGS_MAX_STR_LEN			65535
 
 /*
  * Jaro
